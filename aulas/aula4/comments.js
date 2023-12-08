@@ -1,4 +1,4 @@
-// Comentários
+// Comentários em JS
 
 console.log('Olá mundo!'); // E escrever um comentário
 
