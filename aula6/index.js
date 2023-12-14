@@ -12,7 +12,7 @@ let nomecliente = 'Soares';
 console.log(nomeCliente, nomecliente);
 
 /*
-let nomeCompletoDoCliente = 'Vinicius Soares'
+let nomeCompletoDoCliente = 'Vinicius Soares';
 console.log(nomeCompletoDoCliente);
 */
 
