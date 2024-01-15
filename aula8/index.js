@@ -9,7 +9,7 @@ const sobrenome = 'Santos';
 const idade = 23;
 const peso = 79;
 const alturaEmM = 1.70;
-let indiceMassaCorporal = peso / (alturaEmM * alturaEmM); // peso / (altura * altura)
+let indiceMassaCorporal = peso / (alturaEmM * alturaEmM); // "peso / (altura * altura)"
 let anoNascimento = 2023 - idade;
 
 console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso} kg tem ${alturaEmM} de altura e seu IMC é de ${indiceMassaCorporal}`)
