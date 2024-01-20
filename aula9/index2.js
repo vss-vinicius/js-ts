@@ -1,3 +1,5 @@
+//string, number, undefined, null, boolean, symbol
+
 const nome = 'Vinicius'; //string
 const nome1 = "Vinicius"; //string
 const nome2 = `Vinicius`; //string
@@ -10,4 +12,4 @@ const sobrenomeAluno = null; //nulo -> não aponta para local nenhum na memória
 
 const aprovado = false; //boolean = true or false (lógico)
 
-console.log(typeof aprovado);
+console.log(aprovado);
