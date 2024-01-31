@@ -7,6 +7,8 @@
     /    Divisão
     **   Potenciação
     %    Resto da divisão
+    ++   Incremento
+    --   Decremento
 */
 
 /*
