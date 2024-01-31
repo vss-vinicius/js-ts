@@ -9,6 +9,10 @@
     %    Resto da divisão
     ++   Incremento
     --   Decremento
+
+    Operadores de atribuição
+
+    += -= /= *= **=
 */
 
 /*
@@ -18,6 +22,13 @@
     **      Potenciação
     * / %   Multiplicação | Divisão | Resto da divisão
     + -     Adição | Subtração
+*/
+
+/*
+    NaN = Not a number
+    parseInt (inteiro)
+    parseFloat (decimais)
+    Number (Número)
 */
 
 const num1 = 5
