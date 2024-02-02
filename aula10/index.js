@@ -1,5 +1,5 @@
 /*
-    Operadores Aritiméticos
+    Operadores Aritiméticos:
 
     +    Adição | Concatenação
     -    Subtração
@@ -10,13 +10,13 @@
     ++   Incremento
     --   Decremento
 
-    Operadores de atribuição
+    Operadores de atribuição:
 
     += -= /= *= **=
 */
 
 /*
-    Precedência
+    Precedência:
 
     ()      Parênteses
     **      Potenciação
